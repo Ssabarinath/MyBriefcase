@@ -1,3 +1,4 @@
+Print("Enter the three Numbers")
 a = int(input())
 b = int(input())
 c = int(input())
